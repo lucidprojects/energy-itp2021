@@ -1,8 +1,6 @@
 const int buttonPin = 10;    // the number of the toggle pin
-
 int buttonState;         // the current reading from the input pin
 int lastButtonState;     // the previous reading from the input pin
-
 int driveVal;
 
 // This is the library for the TB6612 that contains the class Motor and all the
